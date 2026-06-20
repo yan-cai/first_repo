@@ -18,8 +18,3 @@ add_executable(packsim
     main.cpp
 )
 
-
-# 7. Link external libraries to your executable
-target_link_libraries(packsim
-    fmt::fmt
-)
